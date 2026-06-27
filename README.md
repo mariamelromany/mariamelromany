@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Mariam El Romany Banner" width="100%" />
+   <img src="banner.png.jpg" alt="Mariam El Romany Banner" width="100%" />
 </p>
 
 <br>

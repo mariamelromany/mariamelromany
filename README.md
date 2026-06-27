@@ -31,3 +31,32 @@ AI Engineer | Machine Learning | Computer Vision | NLP | Generative AI
 -  Led the development of **SENTRA**, a multi-modal AI interview coaching platform as **Team Leader**
 -  Interested in **LLMs, RAG, AI Agents, and applied AI research**
 -  Currently seeking opportunities in **AI Engineering, Research, and Graduate Studies**
+
+----
+
+## 🛠 Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java" />
+</p>
+
+### AI & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/YOLOv8-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Whisper-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLaMA-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-orange?style=for-the-badge"/>
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,fastapi" />
+</p>

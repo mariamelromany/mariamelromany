@@ -25,3 +25,15 @@ AI Engineer | Machine Learning | Computer Vision | NLP | Generative AI
 <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,opencv,sklearn,git,github,docker,linux,vscode,fastapi" />
 
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mariamelromany&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamelromany&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>

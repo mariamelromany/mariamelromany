@@ -14,4 +14,14 @@ AI Engineer | Machine Learning | Computer Vision | NLP | Generative AI
 - 🤖 Interested in AI, Computer Vision, NLP, and Robotics
 - 🌱 Currently learning LLMs & Multi-Agent Systems
 - 💡 Love building real-world AI applications
-- 📫 Reach me: **YOUR_EMAIL**
+- 📫 Reach me: **mariamelromany5@gmail.com**
+
+---
+
+## 🚀 Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,opencv,sklearn,git,github,docker,linux,vscode,fastapi" />
+
+</p>

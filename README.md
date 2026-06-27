@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="banner.png" alt="Mariam El Romany Banner" width="100%" />
+</p>
+
+<br>
+
 <h1 align="center">
 Hi! I'm Mariam El Romany
 </h1>

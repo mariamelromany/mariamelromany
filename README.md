@@ -37,3 +37,13 @@ AI Engineer | Machine Learning | Computer Vision | NLP | Generative AI
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamelromany&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=mariamelromany&theme=tokyonight&hide_border=true"/>
+
+</p>

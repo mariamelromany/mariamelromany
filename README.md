@@ -24,10 +24,10 @@ AI Engineer | Machine Learning | Computer Vision | NLP | Generative AI
 <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge"/>
 </p>
 
-## About Me
+##  About Me
 
--  Final-Year Artificial Intelligence & Computer Science Student at **Benha National University**
--  Passionate about **Machine Learning, Computer Vision, NLP, and Generative AI**
--  Currently building intelligent AI systems with real-world impact
--  Team Leader of **SENTRA**, a multi-modal AI interview coaching platform
--  Currently learning **LLMs, RAG, and Multi-Agent AI Systems**
+-  B.Sc. Graduate in Artificial Intelligence & Computer Science from **Benha National University**
+-  AI Engineer passionate about building intelligent systems using **Machine Learning, Computer Vision, NLP, and Generative AI**
+-  Led the development of **SENTRA**, a multi-modal AI interview coaching platform as **Team Leader**
+-  Interested in **LLMs, RAG, AI Agents, and applied AI research**
+-  Currently seeking opportunities in **AI Engineering, Research, and Graduate Studies**

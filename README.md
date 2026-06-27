@@ -3,7 +3,6 @@
 </p>
 
 <br>
-
 <h1 align="center">
 Hi! I'm Mariam El Romany
 </h1>
@@ -12,44 +11,15 @@ Hi! I'm Mariam El Romany
 AI Engineer | Machine Learning | Computer Vision | NLP | Generative AI
 </h3>
 
----
-
-###  About Me
-
-- AI & Computer Science Student
-- Interested in AI, Computer Vision, NLP, and Robotics
-- Currently learning LLMs & Multi-Agent Systems
-- Love building real-world AI applications
-- Reach me: **mariamelromany5@gmail.com**
-
----
-
-##  Tech Stack
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,opencv,sklearn,git,github,docker,linux,vscode,fastapi" />
-
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Enthusiast;Computer+Vision+Developer;NLP+Explorer;Building+Real-World+AI+Systems" />
 </p>
 
----
-
-##  GitHub Stats
-
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mariamelromany&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamelromany&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=mariamelromany&theme=tokyonight&hide_border=true"/>
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge"/>
 </p>

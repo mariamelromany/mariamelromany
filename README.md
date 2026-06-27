@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi 👋, I'm Mariam El Romany
+Hi! I'm Mariam El Romany
 </h1>
 
 <h3 align="center">
@@ -8,17 +8,17 @@ AI Engineer | Machine Learning | Computer Vision | NLP | Generative AI
 
 ---
 
-### 👩‍💻 About Me
+###  About Me
 
-- 🎓 AI & Computer Science Student
-- 🤖 Interested in AI, Computer Vision, NLP, and Robotics
-- 🌱 Currently learning LLMs & Multi-Agent Systems
-- 💡 Love building real-world AI applications
-- 📫 Reach me: **mariamelromany5@gmail.com**
+- AI & Computer Science Student
+- Interested in AI, Computer Vision, NLP, and Robotics
+- Currently learning LLMs & Multi-Agent Systems
+- Love building real-world AI applications
+- Reach me: **mariamelromany5@gmail.com**
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 <p align="left">
 
@@ -28,7 +28,7 @@ AI Engineer | Machine Learning | Computer Vision | NLP | Generative AI
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
 
@@ -40,7 +40,7 @@ AI Engineer | Machine Learning | Computer Vision | NLP | Generative AI
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <p align="center">
 

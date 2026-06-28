@@ -234,13 +234,13 @@ Currently preparing and developing a comprehensive **12-week Machine Learning Bo
 
 ---
 
-# 💬 Favorite Quote
+#  Favorite Quote
 
 <p align="center">
 
-> *"Artificial Intelligence is not about replacing humans — it's about empowering them to solve problems beyond imagination."*
+> *Artificial Intelligence is not about replacing humans — it's about empowering them to solve problems beyond imagination.*
 
-**— Mariam El Romany**
+** Mariam El Romany**
 
 </p>
 
@@ -251,7 +251,7 @@ Currently preparing and developing a comprehensive **12-week Machine Learning Bo
 </h2>
 
 <p align="center">
-Feel free to explore my repositories, connect with me, or collaborate on exciting AI projects.
+Feel free to explore my repositories, connect with me or collaborate on exciting AI projects.
 </p>
 
 <p align="center">

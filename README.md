@@ -60,3 +60,30 @@ AI Engineer | Machine Learning | Computer Vision | NLP | Generative AI
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,fastapi" />
 </p>
+## Featured Projects
+### 🚀 SENTRA — Multi-Modal AI Interview Coaching Platform
+
+> AI-powered platform that simulates technical interviews using Large Language Models, Computer Vision, and Speech Processing to deliver personalized interview coaching.
+
+**✨ Key Features**
+
+*  LLaMA 3.3 for intelligent interview question generation
+*  ChromaDB vector database for semantic retrieval
+*  Knowledge base containing **250,000+ interview questions & answers**
+*  Prompt Engineering for adaptive interview difficulty
+*  Retrieval-Augmented Generation (RAG)
+*  Whisper for speech-to-text transcription
+*  YOLOv8 for real-time computer vision analysis
+*  Facial emotion and behavior analysis
+*  Resume-aware interview customization
+
+** Tech Stack**
+
+`Python` `FastAPI` `LLaMA 3.3` `ChromaDB` `YOLOv8` `Whisper` `RAG` `Prompt Engineering`
+
+🌐 **Live Demo:** https://sentra-interview-logic.preview.imagine.bo/?_t=1775415038860
+🔒 **Repository:** Private Repository
+
+
+
+ 

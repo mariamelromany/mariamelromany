@@ -158,6 +158,46 @@ AI Engineer | Machine Learning | Computer Vision | NLP | Generative AI
 
 **Repository:** https://github.com/mariamelromany/PharaVision
 
+---
+
+#  Leadership & Professional Experience
+
+##  Team Leader — SENTRA Graduation Project
+
+Led an 11-member multidisciplinary team to design and develop **SENTRA**, a multi-modal AI interview coaching platform integrating Computer Vision, Speech Processing, and Large Language Models.
+
+**Responsibilities**
+
+* Led technical planning and task distribution.
+* Coordinated AI model integration across multiple modules.
+* Managed collaboration between Computer Vision, NLP, and Backend teams.
+* Oversaw system integration and final project delivery.
+
+---
+
+##  Machine Learning Bootcamp Instructor
+
+Currently preparing and developing a comprehensive **12-week Machine Learning Bootcamp**, including educational content, practical notebooks, coding exercises, and real-world AI projects.
+
+**Focus Areas**
+
+* Machine Learning Fundamentals
+* Supervised & Unsupervised Learning
+* Deep Learning Basics
+* Hands-on Python Implementation
+* Real-world AI Applications
+
+---
+
+#  Currently Learning
+
+*  Large Language Models (LLMs)
+*  AI Agents & Multi-Agent Systems
+*  Retrieval-Augmented Generation (RAG)
+*  MLOps & AI Deployment
+*  Advanced Transformer Architectures
+
+
 
 
 

@@ -61,11 +61,11 @@ AI Engineer | Machine Learning | Computer Vision | NLP | Generative AI
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,fastapi" />
 </p>
 ## Featured Projects
-### 🚀 SENTRA — Multi-Modal AI Interview Coaching Platform
+###  SENTRA — Multi-Modal AI Interview Coaching Platform
 
 > AI-powered platform that simulates technical interviews using Large Language Models, Computer Vision, and Speech Processing to deliver personalized interview coaching.
 
-**✨ Key Features**
+** Key Features**
 
 *  LLaMA 3.3 for intelligent interview question generation
 *  ChromaDB vector database for semantic retrieval

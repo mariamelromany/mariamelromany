@@ -160,7 +160,7 @@ AI Engineer | Machine Learning | Computer Vision | NLP | Generative AI
 
 ---
 
-#  Leadership & Professional Experience
+###   Experience & Leadership
 
 ##  Team Leader — SENTRA Graduation Project
 

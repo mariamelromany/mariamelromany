@@ -106,6 +106,59 @@ AI Engineer | Machine Learning | Computer Vision | NLP | Generative AI
 
  **Repository:** https://github.com/mariamelromany/Llama_Project_LLM
 
+###  Transformer-Based Text Summarization
+
+> Comprehensive NLP project exploring both custom and pre-trained Transformer architectures for automatic text summarization, with a comparative performance analysis.
+
+### Highlights
+
+*  Built a Transformer model **from scratch**
+*  Fine-tuned a pre-trained **T5 Transformer**
+*  Compared custom and pre-trained models
+*  Evaluated model performance using summarization metrics
+*  Generated concise and coherent summaries from long-form text
+
+###  Tech Stack
+
+`Python` `PyTorch` `Transformers` `T5` `Hugging Face`
+
+ **Repository:** https://github.com/mariamelromany/Model_deep-learning
+
+ ### 👁 Eye Empower
+
+> AI-powered assistive system designed to help visually impaired users understand and interact with their surroundings using Computer Vision.
+
+###  Highlights
+
+*  Real-time object detection
+*  Scene understanding
+*  Audio feedback for users
+*  Real-time processing
+
+###  Tech Stack
+
+`Python` `OpenCV` `YOLOv8` `Deep Learning`
+
+**Repository:** https://github.com/mariamelromany/Eye-Empower_idea
+
+###  PharaVision
+
+> AI-powered restoration system for damaged Ancient Egyptian artifacts using Generative AI and Computer Vision techniques.
+
+###  Highlights
+
+*  Image restoration
+*  Generative AI techniques
+*  Cultural heritage preservation
+*  High-quality image enhancement
+
+###  Tech Stack
+
+`Python` `PyTorch` `GANs` `OpenCV`
+
+**Repository:** https://github.com/mariamelromany/PharaVision
+
+
 
 
 

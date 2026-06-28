@@ -238,7 +238,7 @@ Currently preparing and developing a comprehensive **12-week Machine Learning Bo
 
 <p align="center">
 
-> *Artificial Intelligence is not about replacing humans — it's about empowering them to solve problems beyond imagination.*
+> *Artificial Intelligence is not about replacing humans it's about empowering them to solve problems beyond imagination.*
 
 ## Mariam El Romany ##
 

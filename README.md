@@ -210,6 +210,36 @@ Currently preparing and developing a comprehensive **12-week Machine Learning Bo
   <img src="https://streak-stats.demolab.com?user=mariamelromany&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+## Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/mariam-el-romany">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+</a>
+
+<a href="mailto:mariamelromany5@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+</a>
+
+<a href="https://github.com/mariamelromany">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mariamelromany&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+<p align="center">
+⭐ Thank you for visiting my profile! ⭐
+</p>
+
 
 
 

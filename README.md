@@ -199,7 +199,7 @@ Currently preparing and developing a comprehensive **12-week Machine Learning Bo
   ----
 
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=mariamelromany&show_icons=true&theme=tokyonight&hide_border=true" />

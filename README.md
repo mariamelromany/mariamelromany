@@ -34,7 +34,7 @@ AI Engineer | Machine Learning | Computer Vision | NLP | Generative AI
 
 ----
 
-##  Tech Stack
+##  Skills
 
 ### Programming Languages
 

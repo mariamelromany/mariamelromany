@@ -84,7 +84,28 @@ AI Engineer | Machine Learning | Computer Vision | NLP | Generative AI
 `Python` `FastAPI` `LLaMA 3.3` `ChromaDB` `YOLOv8` `Whisper` `RAG` `Prompt Engineering`
 
 🌐 **Live Demo:** https://sentra-interview-logic.preview.imagine.bo/?_t=1775415038860
-🔒 **Repository:** Private Repository
+**Source Code:** Private — available upon request.
+
+###  LLaMA 3.3 — Adaptive Interview Question Generation
+
+> Intelligent interview question generation system powered by **LLaMA 3.3**, designed to create personalized technical interview questions based on the candidate's performance and context.
+
+###  Highlights
+
+*  Meta LLaMA 3.3
+*  ChromaDB Vector Database
+*  Prompt Engineering
+*  250,000+ Interview Questions & Answers
+*  Adaptive Question Difficulty
+*  Context-Aware Question Generation
+*  FastAPI Backend
+
+###  Tech Stack
+
+`Python` `LLaMA 3.3` `ChromaDB` `Prompt Engineering` `FastAPI`
+
+ **Repository:** https://github.com/mariamelromany/Llama_Project_LLM
+
 
 
 

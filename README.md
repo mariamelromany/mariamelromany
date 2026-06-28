@@ -232,13 +232,43 @@ Currently preparing and developing a comprehensive **12-week Machine Learning Bo
 
 ---
 
+---
+
+# 💬 Favorite Quote
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=mariamelromany&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+> *"Artificial Intelligence is not about replacing humans — it's about empowering them to solve problems beyond imagination."*
+
+**— Mariam El Romany**
+
+</p>
+
+---
+
+<h2 align="center">
+ Thanks for visiting my profile!
+</h2>
+
+<p align="center">
+Feel free to explore my repositories, connect with me, or collaborate on exciting AI projects.
 </p>
 
 <p align="center">
-⭐ Thank you for visiting my profile! ⭐
+
+ If you like my work, don't forget to leave a star!
+
 </p>
+
+---
+
+<p align="center">
+<a href="#top">
+<img src="https://img.shields.io/badge/Back%20to%20Top-3B82F6?style=for-the-badge"/>
+</a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:3B82F6&height=120&section=footer"/>
 
 
 
